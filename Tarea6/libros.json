@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "El Quijote",
+        "genero": "Novela / Aventura",
+        "anio": "1605",
+        "autor": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "titulo": "Formas de volver a casa",
+        "genero": "Novela",
+        "anio": "2011",
+        "autor": "Alejandro Zambra"
+    },
+    {
+        "titulo": "Los altivos",
+        "genero": "Novela dramática",
+        "anio": "1928",
+        "autor": "María Luisa Bombal"
+    }
+]

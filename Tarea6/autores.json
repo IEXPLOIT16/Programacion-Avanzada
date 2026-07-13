@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Pablo Neruda",
+        "nacionalidad": "Chilena"
+    },
+    {
+        "nombre": "Gabriel García Márquez",
+        "nacionalidad": "Colombiano"
+    },
+    {
+        "nombre": "Jorge Luis Borges",
+        "nacionalidad": "Argentino"
+    }
+]
