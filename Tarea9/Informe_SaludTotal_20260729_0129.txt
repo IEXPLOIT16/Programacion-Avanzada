@@ -1,0 +1,12 @@
+================================================================================
+                INFORME MÉDICO DE PACIENTES - SALUDTOTAL
+================================================================================
+Fecha de generación: 2026-07-29 01:29:16
+Total de pacientes en sistema: 1
+
+[Alta Médica] Paciente: Claudio Baeza Henríquez (Ficha N°: F-2026-2193)
+RUT: 17.143.725-3 | Edad: 37 | Genero: Masculino
+Especialidad: Medicina General | Fecha Ingreso: 2026-07-29 00:54:38
+Contacto: 56990349219 / c.baeza@gmail.com
+Historial/Tratamiento: Lumbago - Tratamiento: Diclofenaco por 3 Días cada 12 hrs.
+--------------------------------------------------------------------------------

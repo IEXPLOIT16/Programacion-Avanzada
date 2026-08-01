@@ -1,0 +1,30 @@
+================================================================================
+                INFORME MÉDICO DE PACIENTES - SALUDTOTAL
+================================================================================
+Fecha de generación: 2026-07-29 01:31:24
+Total de pacientes en sistema: 4
+
+[En Tratamiento] Paciente: Juan Perez (Ficha N°: F-2026-8452)
+RUT: 11.111.111-1 | Edad: 35 | Genero: Masculino
+Especialidad: Medicina General | Fecha Ingreso: 2026-07-29 00:39:07
+Contacto: +56912345678 / juan@example.com
+Historial/Tratamiento: Hipertensión - Tratamiento: Losartán 50mg
+--------------------------------------------------------------------------------
+[En Tratamiento] Paciente: María López (Ficha N°: F-2026-1023)
+RUT: 22.222.222-2 | Edad: 45 | Genero: Femenino
+Especialidad: Endocrinología | Fecha Ingreso: 2026-07-29 00:39:07
+Contacto: +56987654321 / maria@example.com
+Historial/Tratamiento: Diabetes - Tratamiento: Metformina
+--------------------------------------------------------------------------------
+[Alta Médica] Paciente: Pedro García (Ficha N°: F-2026-9912)
+RUT: 33.333.333-3 | Edad: 28 | Genero: Masculino
+Especialidad: Broncopulmonar | Fecha Ingreso: 2026-07-29 00:39:07
+Contacto: +56911223344 / pedro@example.com
+Historial/Tratamiento: Asma - Tratamiento: Salbutamol
+--------------------------------------------------------------------------------
+[Alta Médica] Paciente: Claudio Baeza Henríquez (Ficha N°: F-2026-2193)
+RUT: 17.143.725-3 | Edad: 37 | Genero: Masculino
+Especialidad: Medicina General | Fecha Ingreso: 2026-07-29 00:54:38
+Contacto: 56990349219 / c.baeza@gmail.com
+Historial/Tratamiento: Lumbago - Tratamiento: Diclofenaco por 3 Días cada 12 hrs.
+--------------------------------------------------------------------------------
